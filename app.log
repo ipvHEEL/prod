@@ -1,0 +1,38 @@
+2025-01-19 03:14:23,182 - WARNING -  * Debugger is active!
+2025-01-19 03:14:23,186 - INFO -  * Debugger PIN: 124-532-850
+2025-01-19 03:14:48,043 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-19 03:14:48,043 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-19 03:14:48,044 - INFO -  * Restarting with stat
+2025-01-19 03:14:48,659 - WARNING -  * Debugger is active!
+2025-01-19 03:14:48,663 - INFO -  * Debugger PIN: 124-532-850
+2025-01-19 03:16:06,669 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-19 03:16:06,669 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-19 03:16:06,670 - INFO -  * Restarting with stat
+2025-01-19 03:16:07,289 - WARNING -  * Debugger is active!
+2025-01-19 03:16:07,293 - INFO -  * Debugger PIN: 124-532-850
+2025-01-19 03:18:45,305 - INFO -  * Detected change in 'C:\\Users\\Professional\\Desktop\\project\\app.py', reloading
+2025-01-19 03:18:45,417 - INFO -  * Restarting with stat
+2025-01-19 03:18:46,503 - WARNING -  * Debugger is active!
+2025-01-19 03:18:46,507 - INFO -  * Debugger PIN: 124-532-850
+2025-01-19 03:19:00,481 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-19 03:19:00,482 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-19 03:19:00,483 - INFO -  * Restarting with stat
+2025-01-19 03:19:01,084 - WARNING -  * Debugger is active!
+2025-01-19 03:19:01,088 - INFO -  * Debugger PIN: 124-532-850
+2025-01-19 03:20:00,804 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-19 03:20:00,804 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-19 03:20:00,805 - INFO -  * Restarting with stat
+2025-01-19 03:20:01,514 - WARNING -  * Debugger is active!
+2025-01-19 03:20:01,520 - INFO -  * Debugger PIN: 124-532-850
+2025-01-19 03:28:13,354 - INFO -  * Detected change in 'C:\\Users\\Professional\\Desktop\\project\\app.py', reloading
+2025-01-19 03:28:13,551 - INFO -  * Restarting with stat
+2025-01-19 03:28:14,433 - WARNING -  * Debugger is active!
+2025-01-19 03:28:14,437 - INFO -  * Debugger PIN: 124-532-850
+2025-01-19 03:28:18,472 - INFO -  * Detected change in 'C:\\Users\\Professional\\Desktop\\project\\app.py', reloading
+2025-01-19 03:28:18,571 - INFO -  * Restarting with stat
+2025-01-19 03:28:19,177 - WARNING -  * Debugger is active!
+2025-01-19 03:28:19,181 - INFO -  * Debugger PIN: 124-532-850
