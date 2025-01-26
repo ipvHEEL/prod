@@ -36,3 +36,265 @@
 2025-01-19 03:28:18,571 - INFO -  * Restarting with stat
 2025-01-19 03:28:19,177 - WARNING -  * Debugger is active!
 2025-01-19 03:28:19,181 - INFO -  * Debugger PIN: 124-532-850
+2025-01-24 00:33:43,737 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-24 00:33:43,737 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-24 00:33:43,743 - INFO -  * Restarting with stat
+2025-01-24 00:33:44,437 - WARNING -  * Debugger is active!
+2025-01-24 00:33:44,442 - INFO -  * Debugger PIN: 133-524-038
+2025-01-25 13:45:30,198 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-25 13:45:30,199 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-25 13:45:30,200 - INFO -  * Restarting with stat
+2025-01-25 13:45:30,938 - WARNING -  * Debugger is active!
+2025-01-25 13:45:30,947 - INFO -  * Debugger PIN: 133-524-038
+2025-01-25 13:48:54,079 - INFO -  * Detected change in 'C:\\Users\\Professional\\Desktop\\project\\app.py', reloading
+2025-01-25 13:48:54,232 - INFO -  * Restarting with stat
+2025-01-25 13:48:57,239 - WARNING -  * Debugger is active!
+2025-01-25 13:48:57,244 - INFO -  * Debugger PIN: 133-524-038
+2025-01-25 13:50:00,645 - INFO -  * Detected change in 'C:\\Users\\Professional\\Desktop\\project\\app.py', reloading
+2025-01-25 13:50:00,907 - INFO -  * Restarting with stat
+2025-01-25 13:50:01,842 - WARNING -  * Debugger is active!
+2025-01-25 13:50:01,846 - INFO -  * Debugger PIN: 133-524-038
+2025-01-25 13:52:11,503 - INFO -  * Detected change in 'C:\\Users\\Professional\\Desktop\\project\\app.py', reloading
+2025-01-25 13:52:11,619 - INFO -  * Restarting with stat
+2025-01-25 13:52:12,604 - WARNING -  * Debugger is active!
+2025-01-25 13:52:12,609 - INFO -  * Debugger PIN: 133-524-038
+2025-01-25 14:03:15,375 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-25 14:03:15,375 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-25 14:03:15,377 - INFO -  * Restarting with stat
+2025-01-25 14:03:16,478 - WARNING -  * Debugger is active!
+2025-01-25 14:03:16,491 - INFO -  * Debugger PIN: 133-524-038
+2025-01-25 14:04:46,094 - INFO -  * Detected change in 'C:\\Users\\Professional\\Desktop\\project\\fgh.py', reloading
+2025-01-25 14:04:46,195 - INFO -  * Restarting with stat
+2025-01-25 14:04:47,065 - WARNING -  * Debugger is active!
+2025-01-25 14:04:47,070 - INFO -  * Debugger PIN: 133-524-038
+2025-01-25 14:05:00,161 - INFO -  * Detected change in 'C:\\Users\\Professional\\Desktop\\project\\fgh.py', reloading
+2025-01-25 14:05:00,259 - INFO -  * Restarting with stat
+2025-01-25 14:05:00,874 - WARNING -  * Debugger is active!
+2025-01-25 14:05:00,878 - INFO -  * Debugger PIN: 133-524-038
+2025-01-26 11:13:11,235 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-26 11:13:11,236 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 11:13:11,239 - INFO -  * Restarting with stat
+2025-01-26 11:13:11,828 - WARNING -  * Debugger is active!
+2025-01-26 11:13:11,834 - INFO -  * Debugger PIN: 133-524-038
+2025-01-26 11:15:23,674 - INFO -  * Detected change in 'C:\\Users\\Professional\\Desktop\\project\\app.py', reloading
+2025-01-26 11:15:23,943 - INFO -  * Restarting with stat
+2025-01-26 11:15:24,835 - WARNING -  * Debugger is active!
+2025-01-26 11:15:24,839 - INFO -  * Debugger PIN: 133-524-038
+2025-01-26 11:17:01,726 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-26 11:17:01,726 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 11:17:01,728 - INFO -  * Restarting with stat
+2025-01-26 11:17:02,325 - WARNING -  * Debugger is active!
+2025-01-26 11:17:02,329 - INFO -  * Debugger PIN: 133-524-038
+2025-01-26 15:47:21,512 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-26 15:47:21,512 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 15:47:21,513 - INFO -  * Restarting with stat
+2025-01-26 15:47:22,116 - WARNING -  * Debugger is active!
+2025-01-26 15:47:22,121 - INFO -  * Debugger PIN: 133-524-038
+2025-01-26 15:47:35,566 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:35] "GET / HTTP/1.1" 200 -
+2025-01-26 15:47:35,889 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:35] "GET /static/img/rt.webp HTTP/1.1" 200 -
+2025-01-26 15:47:35,889 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:35] "GET /static/img/re.webp HTTP/1.1" 200 -
+2025-01-26 15:47:35,903 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:35] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 15:47:35,914 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:35] "GET /static/img/as.png HTTP/1.1" 200 -
+2025-01-26 15:47:35,948 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:35] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 15:47:36,005 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:36] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 15:47:36,010 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:36] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 15:47:36,204 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-26 15:47:39,654 - DEBUG - Received form data: FIO=asd, Number=asd
+2025-01-26 15:47:39,695 - INFO - Application successfully submitted!
+2025-01-26 15:47:39,695 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:39] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-01-26 15:47:39,701 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:39] "GET / HTTP/1.1" 200 -
+2025-01-26 15:47:39,712 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:39] "[36mGET /static/img/rt.webp HTTP/1.1[0m" 304 -
+2025-01-26 15:47:39,713 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:39] "[36mGET /static/img/re.webp HTTP/1.1[0m" 304 -
+2025-01-26 15:47:39,724 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:39] "[36mGET /static/img/as.png HTTP/1.1[0m" 304 -
+2025-01-26 15:47:40,625 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:40] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 15:47:58,705 - DEBUG - Received form data: FIO=ןנטגוע , Number=ןנטגוע
+2025-01-26 15:47:58,707 - INFO - Application successfully submitted!
+2025-01-26 15:47:58,707 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:58] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-01-26 15:47:58,713 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:58] "GET / HTTP/1.1" 200 -
+2025-01-26 15:47:58,727 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:58] "[36mGET /static/img/rt.webp HTTP/1.1[0m" 304 -
+2025-01-26 15:47:58,728 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:58] "[36mGET /static/img/re.webp HTTP/1.1[0m" 304 -
+2025-01-26 15:47:58,734 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:58] "[36mGET /static/img/as.png HTTP/1.1[0m" 304 -
+2025-01-26 15:47:58,743 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:58] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 15:47:58,767 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:58] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 15:47:58,784 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:58] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 15:47:58,828 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:58] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 15:47:59,808 - INFO - 127.0.0.1 - - [26/Jan/2025 15:47:59] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 15:48:34,891 - INFO - 127.0.0.1 - - [26/Jan/2025 15:48:34] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 15:48:34,915 - INFO - 127.0.0.1 - - [26/Jan/2025 15:48:34] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 15:48:34,918 - INFO - 127.0.0.1 - - [26/Jan/2025 15:48:34] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 15:48:35,283 - INFO - 127.0.0.1 - - [26/Jan/2025 15:48:35] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 15:50:12,294 - INFO -  * Detected change in 'C:\\Users\\Professional\\Desktop\\project\\app.py', reloading
+2025-01-26 15:50:12,428 - INFO -  * Restarting with stat
+2025-01-26 15:50:13,466 - WARNING -  * Debugger is active!
+2025-01-26 15:50:13,471 - INFO -  * Debugger PIN: 133-524-038
+2025-01-26 16:04:00,129 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-26 16:04:00,129 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 16:04:00,131 - INFO -  * Restarting with stat
+2025-01-26 16:04:00,729 - WARNING -  * Debugger is active!
+2025-01-26 16:04:00,733 - INFO -  * Debugger PIN: 133-524-038
+2025-01-26 16:04:09,092 - INFO - 127.0.0.1 - - [26/Jan/2025 16:04:09] "GET / HTTP/1.1" 200 -
+2025-01-26 16:04:09,247 - INFO - 127.0.0.1 - - [26/Jan/2025 16:04:09] "[36mGET /static/img/re.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:04:09,248 - INFO - 127.0.0.1 - - [26/Jan/2025 16:04:09] "[36mGET /static/img/rt.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:04:09,249 - INFO - 127.0.0.1 - - [26/Jan/2025 16:04:09] "GET /static/css/style.css HTTP/1.1" 200 -
+2025-01-26 16:04:09,254 - INFO - 127.0.0.1 - - [26/Jan/2025 16:04:09] "[36mGET /static/img/as.png HTTP/1.1[0m" 304 -
+2025-01-26 16:04:09,255 - INFO - 127.0.0.1 - - [26/Jan/2025 16:04:09] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:04:09,334 - INFO - 127.0.0.1 - - [26/Jan/2025 16:04:09] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:04:09,368 - INFO - 127.0.0.1 - - [26/Jan/2025 16:04:09] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:08:33,449 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-26 16:08:33,449 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 16:08:33,450 - INFO -  * Restarting with stat
+2025-01-26 16:08:34,049 - WARNING -  * Debugger is active!
+2025-01-26 16:08:34,054 - INFO -  * Debugger PIN: 133-524-038
+2025-01-26 16:08:37,384 - INFO - 127.0.0.1 - - [26/Jan/2025 16:08:37] "GET / HTTP/1.1" 200 -
+2025-01-26 16:08:37,586 - INFO - 127.0.0.1 - - [26/Jan/2025 16:08:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-26 16:08:37,587 - INFO - 127.0.0.1 - - [26/Jan/2025 16:08:37] "[36mGET /static/img/re.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:08:37,590 - INFO - 127.0.0.1 - - [26/Jan/2025 16:08:37] "[36mGET /static/img/rt.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:08:37,599 - INFO - 127.0.0.1 - - [26/Jan/2025 16:08:37] "[36mGET /static/img/as.png HTTP/1.1[0m" 304 -
+2025-01-26 16:08:37,601 - INFO - 127.0.0.1 - - [26/Jan/2025 16:08:37] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:08:37,653 - INFO - 127.0.0.1 - - [26/Jan/2025 16:08:37] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:08:37,659 - INFO - 127.0.0.1 - - [26/Jan/2025 16:08:37] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:08:37,679 - INFO - 127.0.0.1 - - [26/Jan/2025 16:08:37] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:08:37,681 - INFO - 127.0.0.1 - - [26/Jan/2025 16:08:37] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:09:36,895 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-26 16:09:36,895 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 16:09:36,896 - INFO -  * Restarting with stat
+2025-01-26 16:09:37,522 - WARNING -  * Debugger is active!
+2025-01-26 16:09:37,527 - INFO -  * Debugger PIN: 133-524-038
+2025-01-26 16:09:41,202 - INFO - 127.0.0.1 - - [26/Jan/2025 16:09:41] "GET / HTTP/1.1" 200 -
+2025-01-26 16:09:41,416 - INFO - 127.0.0.1 - - [26/Jan/2025 16:09:41] "[36mGET /static/img/rt.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:09:41,420 - INFO - 127.0.0.1 - - [26/Jan/2025 16:09:41] "[36mGET /static/img/re.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:09:41,424 - INFO - 127.0.0.1 - - [26/Jan/2025 16:09:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+2025-01-26 16:09:41,429 - INFO - 127.0.0.1 - - [26/Jan/2025 16:09:41] "[36mGET /static/img/as.png HTTP/1.1[0m" 304 -
+2025-01-26 16:09:41,432 - INFO - 127.0.0.1 - - [26/Jan/2025 16:09:41] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:09:41,486 - INFO - 127.0.0.1 - - [26/Jan/2025 16:09:41] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:09:41,507 - INFO - 127.0.0.1 - - [26/Jan/2025 16:09:41] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:09:41,510 - INFO - 127.0.0.1 - - [26/Jan/2025 16:09:41] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:10:16,711 - INFO - 127.0.0.1 - - [26/Jan/2025 16:10:16] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:10:18,402 - INFO - 127.0.0.1 - - [26/Jan/2025 16:10:18] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:10:19,602 - INFO - 127.0.0.1 - - [26/Jan/2025 16:10:19] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:10:57,658 - INFO - 127.0.0.1 - - [26/Jan/2025 16:10:57] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:10:57,661 - INFO - 127.0.0.1 - - [26/Jan/2025 16:10:57] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:11:19,520 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-26 16:11:19,520 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 16:11:19,523 - INFO -  * Restarting with stat
+2025-01-26 16:11:20,168 - WARNING -  * Debugger is active!
+2025-01-26 16:11:20,173 - INFO -  * Debugger PIN: 133-524-038
+2025-01-26 16:11:22,518 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:22] "GET / HTTP/1.1" 200 -
+2025-01-26 16:11:22,652 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:22] "[36mGET /static/img/re.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:11:22,659 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:22] "[36mGET /static/img/rt.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:11:22,665 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:22] "[36mGET /static/img/as.png HTTP/1.1[0m" 304 -
+2025-01-26 16:11:22,696 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:22] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:11:22,716 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:22] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:11:22,732 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:22] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:11:22,744 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:22] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:11:25,792 - DEBUG - Received form data: FIO=יצ, Number=יצף
+2025-01-26 16:11:25,824 - INFO - Application successfully submitted!
+2025-01-26 16:11:25,825 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:25] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-01-26 16:11:25,831 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:25] "GET / HTTP/1.1" 200 -
+2025-01-26 16:11:25,841 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:25] "[36mGET /static/img/rt.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:11:25,842 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:25] "[36mGET /static/img/re.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:11:25,848 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:25] "[36mGET /static/img/as.png HTTP/1.1[0m" 304 -
+2025-01-26 16:11:26,730 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:26] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:11:53,377 - DEBUG - Received form data: FIO=Ðמדמג Àםהנוי Äלטענטוטק, Number=89774642163
+2025-01-26 16:11:53,380 - INFO - Application successfully submitted!
+2025-01-26 16:11:53,381 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:53] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-01-26 16:11:53,387 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:53] "GET / HTTP/1.1" 200 -
+2025-01-26 16:11:53,402 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:53] "[36mGET /static/img/rt.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:11:53,403 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:53] "[36mGET /static/img/re.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:11:53,408 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:53] "[36mGET /static/img/as.png HTTP/1.1[0m" 304 -
+2025-01-26 16:11:53,417 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:53] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:11:53,436 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:53] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:11:53,449 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:53] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:11:53,457 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:53] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:11:56,768 - INFO - 127.0.0.1 - - [26/Jan/2025 16:11:56] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:13:31,789 - INFO - 127.0.0.1 - - [26/Jan/2025 16:13:31] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:13:31,826 - INFO - 127.0.0.1 - - [26/Jan/2025 16:13:31] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:13:32,137 - INFO - 127.0.0.1 - - [26/Jan/2025 16:13:32] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:13:32,139 - INFO - 127.0.0.1 - - [26/Jan/2025 16:13:32] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:13:40,381 - DEBUG - Received form data: FIO=Ðמדמג Àםהנוי Äלטענטוטק, Number=89774642163
+2025-01-26 16:13:40,384 - INFO - Application successfully submitted!
+2025-01-26 16:13:40,385 - INFO - 127.0.0.1 - - [26/Jan/2025 16:13:40] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-01-26 16:13:40,390 - INFO - 127.0.0.1 - - [26/Jan/2025 16:13:40] "GET / HTTP/1.1" 200 -
+2025-01-26 16:13:40,407 - INFO - 127.0.0.1 - - [26/Jan/2025 16:13:40] "[36mGET /static/img/rt.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:13:40,409 - INFO - 127.0.0.1 - - [26/Jan/2025 16:13:40] "[36mGET /static/img/re.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:13:40,414 - INFO - 127.0.0.1 - - [26/Jan/2025 16:13:40] "[36mGET /static/img/as.png HTTP/1.1[0m" 304 -
+2025-01-26 16:13:40,420 - INFO - 127.0.0.1 - - [26/Jan/2025 16:13:40] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:13:40,444 - INFO - 127.0.0.1 - - [26/Jan/2025 16:13:40] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:13:40,456 - INFO - 127.0.0.1 - - [26/Jan/2025 16:13:40] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:13:40,460 - INFO - 127.0.0.1 - - [26/Jan/2025 16:13:40] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:17:51,791 - INFO - 127.0.0.1 - - [26/Jan/2025 16:17:51] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:21:29,898 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-26 16:21:29,899 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-26 16:21:29,900 - INFO -  * Restarting with stat
+2025-01-26 16:21:30,515 - WARNING -  * Debugger is active!
+2025-01-26 16:21:30,519 - INFO -  * Debugger PIN: 133-524-038
+2025-01-26 16:21:32,441 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:32] "GET / HTTP/1.1" 200 -
+2025-01-26 16:21:32,603 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:32] "[36mGET /static/img/rt.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:21:32,608 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:32] "[36mGET /static/img/re.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:21:32,614 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:32] "[36mGET /static/img/as.png HTTP/1.1[0m" 304 -
+2025-01-26 16:21:32,622 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:32] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:21:32,639 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:32] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:21:32,683 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:32] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:21:32,783 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:32] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:21:36,320 - DEBUG - Received form data: FIO=21, Number=21
+2025-01-26 16:21:36,343 - INFO - Application successfully submitted!
+2025-01-26 16:21:36,343 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:36] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-01-26 16:21:36,347 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:36] "GET / HTTP/1.1" 200 -
+2025-01-26 16:21:36,361 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:36] "[36mGET /static/img/rt.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:21:36,362 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:36] "[36mGET /static/img/re.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:21:36,367 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:36] "[36mGET /static/img/as.png HTTP/1.1[0m" 304 -
+2025-01-26 16:21:36,375 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:36] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:21:36,392 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:36] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:21:36,405 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:36] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:21:36,427 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:36] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:21:36,455 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:36] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:21:42,138 - DEBUG - Received form data: FIO=פûגפûג, Number=פûג
+2025-01-26 16:21:42,140 - INFO - Application successfully submitted!
+2025-01-26 16:21:42,141 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:42] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-01-26 16:21:42,149 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:42] "GET / HTTP/1.1" 200 -
+2025-01-26 16:21:42,165 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:42] "[36mGET /static/img/rt.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:21:42,165 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:42] "[36mGET /static/img/re.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:21:42,175 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:42] "[36mGET /static/img/as.png HTTP/1.1[0m" 304 -
+2025-01-26 16:21:43,266 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:43] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:21:43,268 - INFO - 127.0.0.1 - - [26/Jan/2025 16:21:43] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:23:59,450 - INFO - 127.0.0.1 - - [26/Jan/2025 16:23:59] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:23:59,512 - INFO - 127.0.0.1 - - [26/Jan/2025 16:23:59] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:24:00,496 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:00] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:24:00,631 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:00] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:24:00,981 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:00] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:24:09,874 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:09] "GET / HTTP/1.1" 200 -
+2025-01-26 16:24:09,991 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:09] "[36mGET /static/img/rt.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:24:09,992 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:09] "[36mGET /static/img/re.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:24:10,010 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:10] "[36mGET /static/img/as.png HTTP/1.1[0m" 304 -
+2025-01-26 16:24:10,042 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:10] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:24:10,127 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:10] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:24:10,163 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:10] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:24:10,168 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:10] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:24:10,267 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-26 16:24:13,014 - DEBUG - Received form data: FIO=פûג, Number=פûג
+2025-01-26 16:24:13,019 - INFO - Application successfully submitted!
+2025-01-26 16:24:13,020 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:13] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-01-26 16:24:13,028 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:13] "GET / HTTP/1.1" 200 -
+2025-01-26 16:24:13,043 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:13] "[36mGET /static/img/rt.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:24:13,044 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:13] "[36mGET /static/img/re.webp HTTP/1.1[0m" 304 -
+2025-01-26 16:24:13,049 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:13] "[36mGET /static/img/as.png HTTP/1.1[0m" 304 -
+2025-01-26 16:24:13,058 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:13] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:24:13,069 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:13] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:24:13,081 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:13] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:24:13,096 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:13] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:24:13,100 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:13] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:24:13,136 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:13] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:24:43,410 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:43] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:24:43,749 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:43] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
+2025-01-26 16:24:43,771 - INFO - 127.0.0.1 - - [26/Jan/2025 16:24:43] "[35m[1mGET /static/video/promo.mov HTTP/1.1[0m" 206 -
