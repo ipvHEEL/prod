@@ -117,23 +117,32 @@
     </section>
 
     <section id="contact" class="fade-in-up">
-    <div class="container text-center">
-        <h2>Контакты</h2>
-        <p>Вы можете связаться с нами или оставить заявку на нашем сайте.</p>
+    <div class="container" style="max-width: 600px; margin: auto;">
+        <div class="card p-4">
+            <h2 class="text-center">Контакты</h2>
+            <p class="text-center">Вы можете связаться с нами или оставить заявку на нашем сайте.</p>
 
-        <form action="/" method="POST">
-            <div class="mb-3">
-                <label for="fio" class="form-label">ФИО</label>
-                <input type="text" class="form-control" id="fio" name="fio" required>
-            </div>
-            <div class="mb-3">
-                <label for="number" class="form-label">Номер телефона</label>
-                <input type="tel" class="form-control" id="number" name="number" required>
-            </div>
-            <button type="submit" class="btn btn-primary">Оставить заявку</button>
-        </form>
+            {% if error %}
+                <div class="alert alert-danger text-center">
+                    {{ error }}
+                </div>
+            {% endif %}
+
+            <form action="/" method="POST">
+                <div class="mb-3">
+                    <label for="fio" class="form-label">ФИО</label>
+                    <input type="text" class="form-control" id="fio" name="fio" required>
+                </div>
+                <div class="mb-3">
+                    <label for="number" class="form-label">Номер телефона</label>
+                    <input type="tel" class="form-control" id="number" name="number" required>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">Оставить заявку</button>
+            </form>
+        </div>
     </div>
 </section>
+
 
 
     <footer>
