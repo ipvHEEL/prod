@@ -58,42 +58,24 @@
     </section>
 
     <section id="services" class="fade-in-up">
-        <div class="container text-center">
-            <h2>Наши услуги</h2>
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="card service-card">
-                        <img src="/static/img/rt.webp" class="img-fluid" alt="Ремонт фасадов">
-                        <div class="p-3">
-                            <h5>Ремонт фасадов</h5>
-                            <p>Качественная реставрация фасадов с долгосрочной гарантией.</p>
-                            <button class="btn btn-primary">Подробнее</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card service-card">
-                        <img src="/static/img/re.webp" class="img-fluid" alt="Герметизация швов">
-                        <div class="p-3">
-                            <h5>Герметизация швов</h5>
-                            <p>Использование новейших технологий для герметизации швов.</p>
-                            <button class="btn btn-primary">Подробнее</button>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="card service-card">
-                        <img src="/static/img/as.png" class="img-fluid" alt="Монтаж баннеров">
-                        <div class="p-3">
-                            <h5>Монтаж баннеров</h5>
-                            <p>Услуги по установке наружной рекламы и баннеров.</p>
-                            <button class="btn btn-primary">Подробнее</button>
-                        </div>
+    <div class="container text-center">
+        <h2>Наши услуги</h2>
+        <div class="row">
+            {% for service in services %}
+            <div class="col-md-4">
+                <div class="card service-card">
+                    <img src="{{ service.image_url }}" class="img-fluid" alt="{{ service.name }}">
+                    <div class="p-3">
+                        <h5>{{ service.name }}</h5>
+                        <p>{{ service.description }}</p>
+                        <button class="btn btn-primary">Подробнее</button>
                     </div>
                 </div>
             </div>
+            {% endfor %}
         </div>
-    </section>
+    </div>
+</section>
 
     <section id="about" class="fade-in-up">
         <div class="container text-center">
