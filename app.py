@@ -7,7 +7,7 @@ from flask_admin.contrib.sqla import ModelView
 from sqlalchemy.exc import SQLAlchemyError
 from werkzeug.utils import secure_filename
 
-# Настройка логирования
+
 logging.basicConfig(
     level=logging.DEBUG,
     format='%(asctime)s - %(levelname)s - %(message)s',
@@ -19,24 +19,24 @@ logging.basicConfig(
 
 app = Flask(__name__)
 
-# Конфигурация
+
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:@localhost/alp'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.secret_key = 'key'
 
-# Папка для загрузки изображений
+
 UPLOAD_FOLDER = 'static/img'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif', 'webp'}
 
-# Инициализация базы
+
 db = SQLAlchemy(app)
 
-# Проверка допустимого расширения
+
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
-# Модель Услуги
+
 class Service(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(200), nullable=False)
@@ -46,7 +46,7 @@ class Service(db.Model):
     def __repr__(self):
         return f'<Service {self.name}>'
 
-# Модель Заявки
+
 class Application(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     FIO = db.Column(db.String(200), nullable=False)
@@ -55,12 +55,12 @@ class Application(db.Model):
     def __repr__(self):
         return f'<Application {self.FIO} - {self.Number}>'
 
-# Инициализация Flask-Admin
+
 admin = Admin(app, name='Админ панель', template_mode='bootstrap3')
 admin.add_view(ModelView(Application, db.session))
 admin.add_view(ModelView(Service, db.session))
 
-# Главная страница
+
 @app.route('/', methods=['GET', 'POST'])
 def index():
     services = Service.query.all()
@@ -76,14 +76,19 @@ def index():
             db.session.commit()
 
             logging.info("Application successfully submitted!")
-            return redirect('/')
+            # Используем render_template вместо redirect для передачи success
+            return render_template('index.html',
+                                   services=services,
+                                   success="Ваша заявка успешно отправлена! Мы свяжемся с вами в ближайшее время.")
         except Exception as e:
             logging.error(f"Error processing form submission: {e}", exc_info=True)
-            return render_template('index.html', error="Произошла ошибка. Попробуйте снова.", services=services)
+            return render_template('index.html',
+                                   error="Произошла ошибка. Попробуйте снова.",
+                                   services=services)
 
     return render_template('index.html', services=services)
 
-# Страница добавления новой услуги
+
 @app.route('/add_service', methods=['GET', 'POST'])
 def add_service():
     if request.method == 'POST':
@@ -112,6 +117,5 @@ def add_service():
             return "Произошла ошибка при добавлении услуги"
     return render_template('add_service.html')
 
-# Запуск приложения
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)
